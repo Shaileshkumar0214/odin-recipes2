@@ -1,0 +1,34 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: ; */
+    /* font-weight: bold */
+
+}
+
+img{
+    width: auto;
+    height: 350px;
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    
+}
+
+h2{
+    color: blue;
+    font-size: large;
+}
+
+p{
+    color: rgb(17, 17, 17);
+}
+
+ul{
+    color: rgb(10, 233, 29);
+}
+
+ol{
+    color: rgb(235, 10, 48);
+}
