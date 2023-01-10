@@ -1,34 +1,35 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-    /* font-size: ; */
-    /* font-weight: bold */
-
+body {
+  font-family: "Times New Roman", Times, serif;
+  /* font-size: ; */
+  /* font-weight: bold */
 }
 
-img{
-    width: auto;
-    height: 350px;
-    
+img {
+  width: auto;
+  height: 350px;
 }
 
-h1{
-    color: rgb(0, 0, 0);
-    
+h1 {
+  color: rgb(12, 12, 12);
 }
 
-h2{
-    color: blue;
-    font-size: large;
+#one {
+  color: blue;
 }
 
-p{
-    color: rgb(17, 17, 17);
+h2 {
+  color: rgb(10, 10, 10);
+  font-size: large;
 }
 
-ul{
-    color: rgb(10, 233, 29);
+p {
+  color: rgb(228, 19, 176);
 }
 
-ol{
-    color: rgb(235, 10, 48);
+ul {
+  color: rgb(10, 233, 29);
+}
+
+ol {
+  color: rgb(235, 10, 48);
 }
